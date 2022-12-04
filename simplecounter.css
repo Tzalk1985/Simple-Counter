@@ -1,0 +1,29 @@
+.increase{
+    border: 2px solid black;
+    background-color: green;
+    color: white;
+}
+
+.decrease{
+    border: 2px solid black;
+    background-color: rgb(128, 2, 0);
+    color: white;
+}
+
+.reset{
+    border: 2px solid black;
+    background-color: rgb(255, 98, 7);
+    color: white;
+}
+
+.main{
+    width: 150px;
+    font-size: 50px;
+    color: black;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.head{
+    width: auto;
+}
